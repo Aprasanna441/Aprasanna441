@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prasanna Acharya</h1>
-<h3 align="center">A Code Mechanic </h3>
+<h1 align="center">Hi 👋, I'm Prasanna Acharya from Bhaktapur </h1>
+<h3 align="center">I am a  Code Mechanic </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprasanna441&label=Profile%20views&color=0e75b6&style=flat" alt="aprasanna441" /> </p>
 
